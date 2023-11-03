@@ -1,6 +1,5 @@
-### Hi there 👋
+### Buenas 👋
 
-Here are some ideas to get you started:
 - 🎓 Estudiante de último semestre en UTN Sede San Rafael - Argentina
 - 🔭 Actualmente haciendo pasantias en INKUA
 - 🌱 Aprendiendo sobre Edicion de videos
